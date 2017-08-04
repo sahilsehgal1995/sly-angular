@@ -4,5 +4,9 @@
   "description": "sly-angular for angular",
   "repository": "https://github.com/sahilsehgal1995/sly-angular-package",
   "license": "MIT",
-  "main": "scalyr.js"
+  "main": "scalyr.js",
+  "homepage": "https://github.com/sahilsehgal1995/sly-angular-package",
+  "authors": [
+    "sahil sehgal <sahilsehgal1995@gmail.com>"
+  ]
 }
